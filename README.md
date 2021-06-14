@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sesita
-- 👀 I’m interested in Javascript, Angular, PHP, SQL
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in Javascript, PHP, Laravel, SQL
+- 🌱 I’m currently learning Angular
 
 <!---
 sesita/sesita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
