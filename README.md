@@ -2,7 +2,7 @@
 
 <?php
 
-namespace AshBaker;
+namespace Sesita;
 
 class About extends Me
 {
