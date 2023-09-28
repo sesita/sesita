@@ -1,3 +1,5 @@
+```php
+
 <?php
 
 namespace AshBaker;
@@ -31,3 +33,4 @@ class About extends Me
         return 'To contribute to open source.';
     }
 }
+```
