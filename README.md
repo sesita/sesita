@@ -19,9 +19,10 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
-            PHP::class,
+            Php::class,
             Javascript::class,
             Laravel::class,
+            Livewire::class,
             VueJs::class,
             React::class,
             TailwindCSS::class,
