@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Laravel-E34F26s?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/Laravel-E34F26?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="12" />
